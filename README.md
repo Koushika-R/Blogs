@@ -1,0 +1,1 @@
+This blog series is written for the perplexed minds in healthcare and life sciences who are curious about Artificial Intelligence (AI) and Machine Learning (ML). Here is to breaking down complex ideas into simple, real-world healthcare/life science explanations from a fellow biotechy to new biotechies!
